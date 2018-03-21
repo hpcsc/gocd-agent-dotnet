@@ -6,8 +6,8 @@ These docker images install .NET Core SDK on top of GoCD Agent images
 
 ### Available tags
 
-- `gocd-17.4.0-ubuntu-16.04-net-1.1`
+- `gocd-18.2.0-ubuntu-16.04-net-2.1`
     - Ubuntu v16.04
-    - GoCD Agent v17.4.0
-    - .NET Core SDK v1.1
-    - Docker CE v17.03.1
+    - GoCD Agent v18.2.0
+    - .NET Core SDK v2.1
+    - Docker CE v17.12.0
